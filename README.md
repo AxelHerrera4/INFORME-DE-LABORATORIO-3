@@ -106,8 +106,19 @@ El calculo de error, si se lo evalua, este tendra un resultado de cero ya que co
 
 6) Conclusiones.
 
+-Diseñamos el circuito con la ayuda del simulador y ademas tomamos medidas de tensión en nodos y verificamos que salio lo mismo realizando de manera teórica como lo indica el cuadro.
+
+-Se analizaron los circuitos en serie, con uso de las leyes de Ohm y Kirchhoff, así se lograron resolver los problemas en circuitos eléctricos.
+
+-El calculo de los voltajes dentro de los nodos se utiliza para ver si el estado del circuito está abierto o cerrado, para no ocasionar cortocircuitos o caidas de voltaje.
+
+
 
 7) Bibliografia
+
+- M. (2021b, abril 2). Teorema de Nodos. MiElectrónicaFácil.com. Recuperado 1 de diciembre de 2021, de https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/#pasos-del-teorema-de-nodos
+
+-Salazar, A. (2012). 3. Análisis Por Nodos Y Mallas 3.1. 35–62. http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
 
 
 
