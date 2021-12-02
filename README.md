@@ -94,5 +94,23 @@ V1=2,8202 V
 
 
 
+4) Respuesta a interrogantes y cálculo de error.
+
+
+Se logro comprabar que lso resutlados del modo simulado es igual a los valores que encontramos dentro de el analisis por LCK, los cuales fueron evaluados por un sistema de ecuaciones, y por lo tanto obtuvimos los voltajes en los nodos correspondientes al circuito planteado.
+
+El calculo de error, si se lo evalua, este tendra un resultado de cero ya que corresponde a los valores exactos, tanto medidos, simulados y calculados.
+
+5) Video
+
+
+6) Conclusiones.
+
+
+7) Bibliografia
+
+
+
+
 
 
