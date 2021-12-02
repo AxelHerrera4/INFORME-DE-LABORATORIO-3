@@ -119,6 +119,8 @@ El calculo de error, si se lo evalua, este tendra un resultado de cero ya que co
 
 5) Video
 
+https://youtu.be/BDATG5Zll0w
+
 
 6) Conclusiones.
 
