@@ -108,6 +108,10 @@ Simulacion en Tinkercard:
 
 4) Respuesta a interrogantes y cálculo de error.
 
+Resultados:
+
+![](lab_3/tabla.png)
+
 
 Se logro comprabar que lso resutlados del modo simulado es igual a los valores que encontramos dentro de el analisis por LCK, los cuales fueron evaluados por un sistema de ecuaciones, y por lo tanto obtuvimos los voltajes en los nodos correspondientes al circuito planteado.
 
