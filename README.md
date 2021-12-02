@@ -46,6 +46,8 @@ Pasos a seguir para el teorema de nodos:
 
 -Resolver el sistema de ecuaciones de los nodos, el resultado será las tenciones de un nodo desconocido.
 
+![](lab_3/MAPA_LAB_3.png)
+
 
 3) Explicacion de procedimiento
 
@@ -56,7 +58,7 @@ Planteamos la ecuacion de I1=-I2-I3, por tal motivo que las intensidades o corri
 Plantenado las ecuaciones para los dos nodos realizamos un sistema de ecuaciones para encontrar el voltaje.
 
 
-
+![](lab_3/Analisis_circuito.jpg)
 
 
 Cálculos:
@@ -92,6 +94,16 @@ Reemplazando en ▭1
 5840 V1=16470,45
 V1=2,8202 V
 
+![](lab_3/voltaje.jpeg)
+
+
+Intensidad:
+
+![](lab_3/intensida.jpeg)
+
+Simulacion en Tinkercard:
+
+![](lab_3/tinker_volta.jpeg)
 
 
 4) Respuesta a interrogantes y cálculo de error.
